@@ -1,0 +1,11 @@
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\automat.test.dll
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\automat.test.pdb
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\nunit.framework.dll
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\WebDriver.dll
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\WebDriver.Support.dll
+C:\Mokslai\AutoTest\GIT\automat.test\bin\Debug\nunit.framework.xml
+C:\Mokslai\AutoTest\GIT\automat.test\obj\Debug\automat.test.csproj.AssemblyReference.cache
+C:\Mokslai\AutoTest\GIT\automat.test\obj\Debug\automat.test.csproj.CoreCompileInputs.cache
+C:\Mokslai\AutoTest\GIT\automat.test\obj\Debug\automat.test.csproj.CopyComplete
+C:\Mokslai\AutoTest\GIT\automat.test\obj\Debug\automat.test.dll
+C:\Mokslai\AutoTest\GIT\automat.test\obj\Debug\automat.test.pdb
